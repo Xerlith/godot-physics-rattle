@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rattle.obj-1df9c483d3eaad89155a542d89ee6882.mesh"
+
+[deps]
+
+files=[ "res://.import/rattle.obj-1df9c483d3eaad89155a542d89ee6882.mesh" ]
+
+source_file="res://rattle.obj"
+dest_files=[ "res://.import/rattle.obj-1df9c483d3eaad89155a542d89ee6882.mesh", "res://.import/rattle.obj-1df9c483d3eaad89155a542d89ee6882.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
